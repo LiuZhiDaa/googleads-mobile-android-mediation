@@ -1,5 +1,9 @@
 ## Facebook Android Mediation Adapter Changelog
 
+#### Next Version
+- Added support for rewarded interstitial ads.
+- Updated the minimum required Google Mobile Ads SDK version to 19.2.0.
+
 #### 5.9.0.1
 - Adapter now forwards an error if the FAN SDK encounters an error while presenting an interstitial/rewarded ad.
 
